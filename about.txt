@@ -1,0 +1,12 @@
+Website Title: Hamro Mausam.
+
+Different aspects are to be added to this website.
+- Weather Alerts( a system to display weather alerts for severe conditions such as storms, hurricanes or heatwaves)
+
+- Hourly Forecast ( provides users with an hourly breakdown of the weather)
+
+- User Location Detection( automatically detect the users system using location)
+
+- Customizable units( Users can customize the units of tempreture)
+
+- Weather API integration
